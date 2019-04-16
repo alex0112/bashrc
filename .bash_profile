@@ -1,0 +1,1 @@
+/Users/alex/.bash_profile
